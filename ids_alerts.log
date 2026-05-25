@@ -1,0 +1,5 @@
+[2026-05-25 01:13:34] ALERT | SSH BRUTE FORCE DETECTED | Source: 192.168.1.10 | Made 5 attempts to SSH port 22
+[2026-05-25 01:13:35] ALERT | SSH BRUTE FORCE DETECTED | Source: 192.168.1.10 | Made 5 attempts to SSH port 22
+[2026-05-25 01:28:32] ALERT | SSH BRUTE FORCE DETECTED | Source: 192.168.1.10 | Made 5 attempts to SSH port 22
+[2026-05-25 01:51:56] ALERT | HTTP BRUTE FORCE DETECTED | Source: 192.168.1.10 | Made 2 rapid connections to port 80
+[2026-05-25 01:51:56] ALERT | HTTP BRUTE FORCE DETECTED | Source: 192.168.1.10 | Made 2 rapid connections to port 80
