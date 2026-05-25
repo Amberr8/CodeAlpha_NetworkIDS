@@ -52,6 +52,4 @@ type ids_alerts.log
 [2026-05-25 01:51:56] ALERT | HTTP BRUTE FORCE DETECTED | Source: 192.168.1.10 | Made 2 rapid connections to port 80
 
 
-## Internship
-CodeAlpha Cybersecurity Internship
-Task 4 — Network Intrusion Detection System
+
